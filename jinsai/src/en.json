@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "What is your highest level of education?",
+    "options": { "Doctorate": 30, "Master's": 20, "Bachelor's": 10, "Below Bachelor's": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 2,
+    "question": "Do you have multiple Master's or Doctorate degrees?",
+    "options": { "Yes": 5, "No": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 3,
+    "question": "Is your university listed in the bonus point list?",
+    "options": { "Yes": 10, "No": 0 },
+    "isMultiple": false,
+    "FAQ": true,
+    "FAQtitle": "Search here if your university is on the list",
+    "FAQContent": ["University of Tokyo"]
+  },
+  {
+    "id": 4,
+    "question": "What is your professional experience?",
+    "options": { "Over 10 years": 20, "7-10 years": 15, "5-7 years": 10, "3-5 years": 5, "Under 2 years": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 5,
+    "question": "What is your age?",
+    "options": { "Under 30": 15, "30-34": 10, "35-39": 5, "40 and above": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 6,
+    "question": "Do you have any of the following qualifications?",
+    "options": { "Job-related Japanese national qualification": 5, "Job-related IT qualification": 5, "Job-related foreign national qualification": 10 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 8,
+    "question": "Do you have any of the following research experiences?",
+    "options": { "One or more patented inventions": 5, "Three or more researches funded by foreign governments": 5, "Three or more academic papers published": 5 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 12,
+    "question": "Do you meet any of the following conditions?",
+    "options": { "Engaged in advanced projects participated by the Japanese government": 10, "Have experience in JICA training": 5, "Engaged in investment management related business": 10 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "FAQ": [
+    {
+      "question": "What is the Japan Highly Skilled Professional Scoring Table?",
+      "answer": "The Japan Highly Skilled Professional Scoring Table is an assessment system used to determine if applicants meet the criteria for Japan's Highly Skilled Professional visa, facilitating faster acquisition of work and residency permits."
+    },
+    {
+      "question": "What criteria are included in the scoring table?",
+      "answer": "The scoring table typically includes criteria such as educational background, work experience, annual income, age, Japanese language proficiency, and other factors."
+    },
+    {
+      "question": "How do I submit my evaluation?",
+      "answer": "You need to fill out the relevant application form and provide necessary documentation, then submit it to the Ministry of Foreign Affairs of Japan or related institutions."
+    },
+    {
+      "question": "What are the benefits of scoring high?",
+      "answer": "Scoring above a certain threshold may prioritize consideration for the Highly Skilled Professional visa, usually meaning faster approval times and more work and residency rights."
+    }
+  ],
+  "title": "Japan's Highly Skilled Professional Scoring Sheet",
+  "url": [{"name":"Start Scoring","url": "/question"}, {"name":"Official Explanation from the Ministry of Justice","url": "https://www.moj.go.jp/isa/publications/materials/nyuukokukanri01_00009.html"}]
+}

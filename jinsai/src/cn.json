@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "question": "你的最高学历是？",
+      "options": {
+        "博士": 30,
+        "硕士": 20,
+        "学士": 10,
+        "学士以下": 0
+      },
+      "isMultiple": false,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    },
+    {
+      "id": 2,
+      "question": "你是否有多个硕士或博士学位？",
+      "options": {
+        "是": 5,
+        "否": 0
+      },
+      "isMultiple": false,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    },
+    {
+      "id": 3,
+      "question": "你毕业的大学是否在加分名单中？",
+      "options": {
+        "是": 10,
+        "否": 0
+      },
+      "isMultiple": false,
+      "FAQ": true,
+      "FAQtitle": "在这里搜索您的大学是否在名单中",
+      "FAQContent": [
+        "东京大学"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "你的职业经历？",
+      "options": {
+        "10年以上": 20,
+        "7-10年": 15,
+        "5-7年": 10,
+        "3-5年": 5,
+        "2年以下": 0
+      },
+      "isMultiple": false,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    },
+    {
+      "id": 5,
+      "question": "你的年龄？",
+      "options": {
+        "30岁以下": 15,
+        "30-34岁": 10,
+        "35-39岁": 5,
+        "40岁以上": 0
+      },
+      "isMultiple": false,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    },
+    {
+      "id": 6,
+      "question": "是否有以下资格？",
+      "options": {
+        "和工作相关的日本国家资格": 5,
+        "和工作相关的IT资格": 5,
+        "和工作相关的外国国家资格": 10
+      },
+      "isMultiple": true,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    },
+    {
+      "id": 12,
+      "question": "是否符合以下条件？",
+      "options": {
+        "从事日本政府参与的先端项目": 10,
+        "有JICA研修经验": 5,
+        "从事投资运用相关业务": 10
+      },
+      "isMultiple": true,
+      "FAQ": false,
+      "FAQtitle": [],
+      "FAQContent": []
+    }
+  ]

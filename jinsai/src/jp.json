@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "最終学歴は何ですか？",
+    "options": { "博士": 30, "修士": 20, "学士": 10, "学士以下": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 2,
+    "question": "複数の修士号または博士号を持っていますか？",
+    "options": { "はい": 5, "いいえ": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 3,
+    "question": "卒業した大学は加点リストに含まれていますか？",
+    "options": { "はい": 10, "いいえ": 0 },
+    "isMultiple": false,
+    "FAQ": true,
+    "FAQtitle": "こちらで大学がリストに含まれているか確認してください",
+    "FAQContent": ["東京大学"]
+  },
+  {
+    "id": 4,
+    "question": "職務経験はどの程度ありますか？",
+    "options": { "10年以上": 20, "7-10年": 15, "5-7年": 10, "3-5年": 5, "2年以下": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 5,
+    "question": "あなたの年齢は？",
+    "options": { "30歳以下": 15, "30-34歳": 10, "35-39歳": 5, "40歳以上": 0 },
+    "isMultiple": false,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 6,
+    "question": "以下の資格を持っていますか？",
+    "options": { "職務関連の日本国家資格": 5, "職務関連のIT資格": 5, "職務関連の外国国家資格": 10 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 8,
+    "question": "以下の研究経験がありますか？",
+    "options": { "特許発明1件以上": 5, "外国政府の補助金による研究3回以上": 5, "学術論文を3篇以上発表": 5 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  },
+  {
+    "id": 12,
+    "question": "以下の条件に該当しますか？",
+    "options": { "日本政府参加の先端プロジェクトに従事": 10, "JICA研修経験あり": 5, "投資運用関連業務に従事": 10 },
+    "isMultiple": true,
+    "FAQ": false,
+    "FAQtitle": [],
+    "FAQContent": []
+  }
+]
