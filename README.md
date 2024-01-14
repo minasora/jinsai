@@ -4,7 +4,9 @@ The Japan High-Skilled Talent Scoring Tool is a dynamic application designed for
 
 ## Features
 **Automated Scoring Sheet Generation:** Quickly generate scoring sheets compliant with Japanese high-skilled talent scoring standards.
+
 **User-Friendly Interface:** A clean and clear UI design for easy operation and understanding.
+
 **Real-Time Updates:** Stay updated with the latest scoring standards and rules.
 ## Tech Stack
 Svelte.js: For building a high-performance frontend interface.
