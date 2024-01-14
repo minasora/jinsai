@@ -9,5 +9,6 @@ The Japan High-Skilled Talent Scoring Tool is a dynamic application designed for
 
 **Real-Time Updates:** Stay updated with the latest scoring standards and rules.
 ## Tech Stack
-Svelte.js: For building a high-performance frontend interface.
-Vercel: For fast, reliable application deployment and hosting.
+**Svelte.js**: For building a high-performance frontend interface.
+
+**Vercel:** For fast, reliable application deployment and hosting.
